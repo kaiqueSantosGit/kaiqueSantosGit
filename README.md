@@ -10,7 +10,7 @@
 
 - **Ferramentas:** ![Git](https://img.shields.io/badge/Git-2.30.1-orange) ![GitHub](https://img.shields.io/badge/GitHub-20.10.5-blue)
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiqueSantosGit&show_icons=true&theme=radical)
 
 
 ### 💼 Projetos
