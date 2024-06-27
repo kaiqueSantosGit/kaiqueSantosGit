@@ -3,7 +3,7 @@
  ### Olá eu sou Kaique  
  Apaixonado por código, Desenvolvedor Full Stack em constante evolução ⚡
 ---
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera Educacional, buscando especialização na área. Tenho experiência e domínio em Git, GitHub e Python. Além disso, estou melhorando minhas habilidades em frontend, utilizando ferramentas como HTML, CSS e JavaScript
+#### Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera Educacional, buscando especialização na área. Tenho experiência e domínio em Git, GitHub e Python. Além disso, estou melhorando minhas habilidades em frontend, utilizando ferramentas como HTML, CSS e JavaScript
 ---
 ### 🚀 Habilidades
 - **Linguagens:** ![Python](https://img.shields.io/badge/Python-3.8-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![CSS](https://img.shields.io/badge/CSS-3-blueviolet) ![HTML](https://img.shields.io/badge/HTML-5-orange)
