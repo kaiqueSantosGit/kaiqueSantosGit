@@ -13,6 +13,21 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
+### 💼 Projetos
+- **[Projeto 1](link do repositório):** Breve descrição do projeto, tecnologias usadas, etc.
+
+
+### 🌟 Contribuições Open Source
+- **[Projeto Open Source 1](link do repositório):** Contribuições feitas, etc.
+
+
+### 📜 Certificações e Cursos
+- **Em breve:** Emitida por [Organização]
+- **Em breve:** Oferecido por [Plataforma]
+
+### 📫 Contato
+- **Email:** kaiqueg.sant@gmail.com
+- **LinkedIn:** [kaiquegsantos ](www.linkedin.com/in/kaiquegsantos)
 
 
 <!--
