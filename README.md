@@ -6,9 +6,9 @@
 
 ---
  ### Olá eu sou Kaique
- Apaixonado por código, Desenvolvedor Full Stack em constante evolução ⚡
+ Desenvolvedor FrontEnd em Formação | Experiência em Projetos Visuais e Gestão de Clientes | HTML, CSS, JavaScript⚡
 ---
-#### Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhanguera Educacional, buscando especialização na área. Tenho experiência e domínio em Git, GitHub e Python. Além disso, estou melhorando minhas habilidades em frontend, utilizando ferramentas como HTML, CSS e JavaScript
+#### Atualmente, estou me especializando em Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades em HTML, CSS e JavaScript. Com 7 anos de experiência como Tatuador Profissional Autônomo, desenvolvi competências em gestão de projetos e atendimento personalizado, fundamentais para minha transição para o desenvolvimento FrontEnd. A proatividade e atenção aos detalhes que cultivava na arte da tatuagem agora me guiam na criação de soluções inovadoras e experiências digitais memoráveis. Estou motivado a integrar essas vivências com meus conhecimentos técnicos para impactar positivamente o setor de tecnologia.
 ---
 <div>
 
