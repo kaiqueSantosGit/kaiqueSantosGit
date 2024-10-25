@@ -51,9 +51,6 @@
 - **[Projeto Open Source 1](link do repositório):** Contribuições feitas, etc. -->
 
 
-### 📜 Certificações e Cursos
-- **Em breve:** Emitida por [Organização]
-- **Em breve:** Oferecido por [Plataforma]
 
 
 <!--
